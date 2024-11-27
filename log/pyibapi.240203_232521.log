@@ -1,0 +1,99 @@
+(MainThread) 240203_23:25:22.716 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:hfarm
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:jfarm
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarmnj
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR 37 320 Error reading request. Missing parent order: server: 0 order: 37 parent: 36 hedge:[F]
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR 6 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.717 ERROR wrapper.py:84 ERROR 7 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.879 ERROR wrapper.py:84 ERROR 25 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.892 ERROR wrapper.py:84 ERROR 13 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.932 ERROR wrapper.py:84 ERROR 21 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.973 ERROR wrapper.py:84 ERROR 29 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.973 ERROR wrapper.py:84 ERROR 8 200 No security definition has been found for the request
+(MainThread) 240203_23:25:22.976 ERROR wrapper.py:84 ERROR 34 10314 Time: The date, time, or time-zone entered is invalid. The correct format is yyyymmdd hh:mm:ss xx/xxxx where yyyymmdd and xx/xxxx are optional. E.g.: 20031126 15:59:00 US/Eastern  Note that there is a space between the date and time, and between the time and time-zone.  If no date is specified, current date is assumed. If no time-zone is specified, local time-zone is assumed(deprecated).  You can also provide yyyymmddd-hh:mm:ss time is in UTC. Note that there is a dash between the date and time in UTC notation.
+(MainThread) 240203_23:25:23.140 ERROR wrapper.py:84 ERROR 10 200 No security definition has been found for the request
+(MainThread) 240203_23:25:23.387 ERROR wrapper.py:84 ERROR 41 399 Order Message: BUY 1 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:23.547 ERROR wrapper.py:84 ERROR 43 443 Order processing failed. Unknown algo attribute:strategyType
+(MainThread) 240203_23:25:23.730 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 240203_23:25:23.801 ERROR wrapper.py:84 ERROR 55 200 No security definition has been found for the request
+(MainThread) 240203_23:25:23.801 ERROR wrapper.py:84 ERROR 54 200 No security definition has been found for the request
+(MainThread) 240203_23:25:23.801 ERROR wrapper.py:84 ERROR 53 200 No security definition has been found for the request
+(MainThread) 240203_23:25:23.807 ERROR wrapper.py:84 ERROR 59 10052 Invalid time in force
+(MainThread) 240203_23:25:23.825 ERROR wrapper.py:84 ERROR 45 200 No security definition has been found for the request
+(MainThread) 240203_23:25:23.831 ERROR wrapper.py:84 ERROR 46 200 No security definition has been found for the request
+(MainThread) 240203_23:25:23.914 ERROR wrapper.py:84 ERROR 56 399 Order Message: BUY 1 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:23.965 ERROR wrapper.py:84 ERROR 57 399 Order Message: BUY 1 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:23.967 ERROR wrapper.py:84 ERROR 58 399 Order Message: BUY 1 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:24.046 ERROR wrapper.py:84 ERROR 61 10302 Min trade trade quantity is not allowed for this order
+(MainThread) 240203_23:25:24.046 ERROR wrapper.py:84 ERROR 62 10302 Min trade trade quantity is not allowed for this order
+(MainThread) 240203_23:25:24.092 ERROR wrapper.py:84 ERROR 60 399 Order Message: BUY 100 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:24.093 ERROR wrapper.py:84 ERROR 63 10302 Min trade trade quantity is not allowed for this order
+(MainThread) 240203_23:25:24.181 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarm
+(MainThread) 240203_23:25:32.307 ERROR wrapper.py:84 ERROR 1 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:32.309 ERROR wrapper.py:84 ERROR 2 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.310 ERROR wrapper.py:84 ERROR 5 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.310 ERROR wrapper.py:84 ERROR 12 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.311 ERROR wrapper.py:84 ERROR 14 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 15 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 16 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 17 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 18 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 19 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 20 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.312 ERROR wrapper.py:84 ERROR 22 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.313 ERROR wrapper.py:84 ERROR 23 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.313 ERROR wrapper.py:84 ERROR 24 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.313 ERROR wrapper.py:84 ERROR 26 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.313 ERROR wrapper.py:84 ERROR 27 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.313 ERROR wrapper.py:84 ERROR 28 10311 This order will be directly routed to ARCA. Direct routed orders may result in higher trade fees. Restriction is specified in Precautionary Settings of Global Configuration/API.
+(MainThread) 240203_23:25:33.324 ERROR wrapper.py:84 ERROR 38 383 The following order "ID:38" size exceeds the Size Limit of 500. Restriction is specified in Precautionary Settings of Global Configuration/Presets.
+(MainThread) 240203_23:25:33.330 ERROR wrapper.py:84 ERROR 31 163 The following order "ID:31" price exceeds  the Percentage constraint of 3%. Restriction is specified in Precautionary Settings of Global Configuration/Presets.
+(MainThread) 240203_23:25:33.361 ERROR wrapper.py:84 ERROR 3 399 Order Message: BUY 200 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:33.439 ERROR wrapper.py:84 ERROR 4 399 Order Message: BUY 200 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:33.445 ERROR wrapper.py:84 ERROR 35 399 Order Message: BUY 100 BMW IBIS Warning: your order will not be placed at the exchange until 2024-02-05 09:00:00 MET
+(MainThread) 240203_23:25:33.447 ERROR wrapper.py:84 ERROR 39 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:33.493 ERROR wrapper.py:84 ERROR 39 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.318 ERROR wrapper.py:84 ERROR 40 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.320 ERROR wrapper.py:84 ERROR 9 451 The Total Value Limit of the following order "ID:9" can not be verified. Restriction is specified in Precautionary Settings of Global Configuration/Presets.
+(MainThread) 240203_23:25:34.320 ERROR wrapper.py:84 ERROR 11 163 The following order "ID:11" price exceeds  the Percentage constraint of 3%. Restriction is specified in Precautionary Settings of Global Configuration/Presets.
+(MainThread) 240203_23:25:34.320 ERROR wrapper.py:84 ERROR 44 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.323 ERROR wrapper.py:84 ERROR 48 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.324 ERROR wrapper.py:84 ERROR 49 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.324 ERROR wrapper.py:84 ERROR 50 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.325 ERROR wrapper.py:84 ERROR 51 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.326 ERROR wrapper.py:84 ERROR 52 2111 <html>The Start and/or End Time for algo order BUY 1,000 META NASDAQ.NMS @ 1.00<br>was adjusted to use the next trading date.<br>To modify this setting, use the <i>Auto-adjust algo order date</i> item on the <b>Orders</b> configuration page</html>
+(MainThread) 240203_23:25:34.365 ERROR wrapper.py:84 ERROR 40 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.373 ERROR wrapper.py:84 ERROR 44 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.387 ERROR wrapper.py:84 ERROR 47 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.388 ERROR wrapper.py:84 ERROR 48 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.390 ERROR wrapper.py:84 ERROR 49 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.391 ERROR wrapper.py:84 ERROR 50 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.456 ERROR wrapper.py:84 ERROR 51 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:25:34.458 ERROR wrapper.py:84 ERROR 52 399 Order Message: BUY 1,000 META NASDAQ.NMS Warning: your order will not be placed at the exchange until 2024-02-05 09:30:00 US/Eastern
+(MainThread) 240203_23:48:42.314 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:usopt
+(MainThread) 240203_23:48:42.644 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:eufarm
+(MainThread) 240203_23:48:43.011 ERROR wrapper.py:84 ERROR -1 1100 Connectivity between IBKR and Trader Workstation has been lost.
+(MainThread) 240203_23:48:43.012 ERROR wrapper.py:84 ERROR 8 10328 Connection lost, order data could not be resolved.
+(MainThread) 240203_23:48:43.012 ERROR wrapper.py:84 ERROR 10 10328 Connection lost, order data could not be resolved.
+(MainThread) 240203_23:48:45.226 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:eufarm
+(MainThread) 240203_23:48:45.785 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:hfarm
+(MainThread) 240203_23:48:45.789 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:eufarmnj
+(MainThread) 240203_23:48:45.792 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:cashfarm
+(MainThread) 240203_23:48:45.796 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:usfuture
+(MainThread) 240203_23:48:45.798 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:jfarm
+(MainThread) 240203_23:48:45.809 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:usfarm.nj
+(MainThread) 240203_23:48:45.812 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:usopt
+(MainThread) 240203_23:48:45.817 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:usfarm
+(MainThread) 240203_23:48:45.819 ERROR wrapper.py:84 ERROR -1 2157 Sec-def data farm connection is broken:secdefil
+(MainThread) 240203_23:48:45.820 ERROR wrapper.py:84 ERROR -1 2105 HMDS data farm connection is broken:euhmds
+(MainThread) 240203_23:48:45.822 ERROR wrapper.py:84 ERROR -1 2105 HMDS data farm connection is broken:cashhmds
+(MainThread) 240203_23:48:45.823 ERROR wrapper.py:84 ERROR -1 2105 HMDS data farm connection is broken:fundfarm
+(MainThread) 240203_23:48:45.824 ERROR wrapper.py:84 ERROR -1 2105 HMDS data farm connection is broken:ushmds

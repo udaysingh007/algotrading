@@ -1,0 +1,21 @@
+(MainThread) 240203_22:58:16.322 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 240203_22:58:16.322 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:hfarm
+(MainThread) 240203_22:58:16.322 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarm
+(MainThread) 240203_22:58:16.322 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:jfarm
+(MainThread) 240203_22:58:16.322 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 240203_22:58:16.322 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 240203_22:58:16.323 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarmnj
+(MainThread) 240203_22:58:16.323 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240203_22:58:16.323 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 240203_22:58:16.323 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 240203_22:58:16.323 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 240203_22:58:16.324 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240203_22:58:16.324 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil
+(MainThread) 240203_22:58:16.573 ERROR wrapper.py:84 ERROR 19001 10189 Failed to request tick-by-tick data.No market data permissions for HEX STK
+(MainThread) 240203_22:58:16.690 ERROR wrapper.py:84 ERROR 19002 10189 Failed to request tick-by-tick data.No market data permissions for HEX STK
+(MainThread) 240203_22:58:16.774 ERROR wrapper.py:84 ERROR 19005 354 Requested market data is not subscribed.
+(MainThread) 240203_22:58:16.801 ERROR wrapper.py:84 ERROR 19003 10189 Failed to request tick-by-tick data.No market data permissions for HEX STK
+(MainThread) 240203_22:58:16.867 ERROR wrapper.py:84 ERROR 19006 354 Requested market data is not subscribed.
+(MainThread) 240203_22:58:16.968 ERROR wrapper.py:84 ERROR 19007 354 Requested market data is not subscribed.
+(MainThread) 240203_22:59:35.019 ERROR wrapper.py:84 ERROR -1 2108 Market data farm connection is inactive but should be available upon demand.eufarm
+(MainThread) 240203_22:59:35.022 ERROR wrapper.py:84 ERROR -1 2108 Market data farm connection is inactive but should be available upon demand.eufarm

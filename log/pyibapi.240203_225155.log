@@ -1,0 +1,14 @@
+(MainThread) 240203_22:52:47.280 ERROR wrapper.py:84 ERROR -1 2110 Connectivity between Trader Workstation and server is broken. It will be restored automatically.
+(MainThread) 240203_22:52:47.281 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:cashfarm
+(MainThread) 240203_22:52:47.281 ERROR wrapper.py:84 ERROR -1 2103 Market data farm connection is broken:usfarm
+(MainThread) 240203_22:52:47.281 ERROR wrapper.py:84 ERROR -1 2105 HMDS data farm connection is broken:cashhmds
+(MainThread) 240203_22:52:47.282 ERROR wrapper.py:84 ERROR -1 2105 HMDS data farm connection is broken:ushmds
+(MainThread) 240203_22:52:47.282 ERROR wrapper.py:84 ERROR -1 2157 Sec-def data farm connection is broken:secdefil
+(MainThread) 240203_22:52:47.283 ERROR wrapper.py:84 ERROR 210 200 No security definition has been found for the request
+(MainThread) 240203_22:52:47.382 ERROR wrapper.py:84 ERROR 211 200 No security definition has been found for the request
+(MainThread) 240203_22:52:47.682 ERROR wrapper.py:84 ERROR 214 200 No security definition has been found for the request
+(MainThread) 240203_22:52:47.782 ERROR wrapper.py:84 ERROR 215 200 No security definition has been found for the request
+(MainThread) 240203_22:52:47.882 ERROR wrapper.py:84 ERROR 216 200 No security definition has been found for the request
+(MainThread) 240203_22:52:47.983 ERROR wrapper.py:84 ERROR 217 200 No security definition has been found for the request
+(MainThread) 240203_22:52:48.082 ERROR wrapper.py:84 ERROR 219 200 No security definition has been found for the request
+(MainThread) 240203_22:52:48.183 ERROR wrapper.py:84 ERROR 218 10159 Failed to request matching symbols:Error sending message to a CCP.

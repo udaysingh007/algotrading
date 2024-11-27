@@ -1,0 +1,20 @@
+(MainThread) 240205_23:28:59.436 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 240205_23:28:59.436 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240205_23:28:59.437 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 240205_23:28:59.437 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 240205_23:28:59.437 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 240205_23:28:59.437 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240205_23:28:59.437 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil
+(MainThread) 240205_23:28:59.863 ERROR wrapper.py:84 ERROR 1002 200 No security definition has been found for the request
+(MainThread) 240205_23:29:00.193 ERROR wrapper.py:84 ERROR 1008 10094 API News error:Source code unchecked in API news Settings: DJ-RT
+(MainThread) 240205_23:29:00.250 ERROR wrapper.py:84 ERROR 1009 321 Error validating request.-'b1' : cause - The entered news source is invalid. Valid are: [BRFG, BRFUPDN, DJNL, BZ, DJTOP]
+(MainThread) 240205_23:29:00.336 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 240205_23:29:00.450 ERROR wrapper.py:84 ERROR 1011 321 Error validating request.-'b1' : cause - The entered news source is invalid. Valid are: [BRFG, BRFUPDN, DJNL, BZ, DJTOP]
+(MainThread) 240205_23:29:00.494 ERROR wrapper.py:84 ERROR 1013 200 No security definition has been found for the request
+(MainThread) 240205_23:29:00.538 ERROR wrapper.py:84 ERROR 1016 200 No security definition has been found for the request
+(MainThread) 240205_23:29:00.539 ERROR wrapper.py:84 ERROR 1015 200 No security definition has been found for the request
+(MainThread) 240205_23:29:00.578 ERROR wrapper.py:84 ERROR 1014 200 No security definition has been found for the request
+(MainThread) 240205_23:29:02.080 ERROR wrapper.py:84 ERROR -1 2113 Warning: the order size for Bonds (Bills) is entered as a nominal par value of the order, and must be a multiple of the Minimum Size Increment.%s
+(MainThread) 240205_23:29:02.562 ERROR wrapper.py:84 ERROR 1018 2147483647 Unable to retrieve smart components for BBO exchange a6 and security type null
+(MainThread) 240205_23:29:03.251 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarm
+(MainThread) 240205_23:29:11.873 ERROR wrapper.py:84 ERROR 1010 10197 No market data during competing live session

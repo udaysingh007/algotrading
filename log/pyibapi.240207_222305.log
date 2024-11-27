@@ -1,0 +1,13 @@
+(MainThread) 240207_22:23:05.849 DEBUG Program.py:2027 now is 2024-02-07 22:23:05.849057
+(MainThread) 240207_22:23:05.910 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 240207_22:23:05.910 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:hfarm
+(MainThread) 240207_22:23:05.910 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:jfarm
+(MainThread) 240207_22:23:05.910 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 240207_22:23:05.910 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 240207_22:23:05.911 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarmnj
+(MainThread) 240207_22:23:05.911 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240207_22:23:05.911 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 240207_22:23:05.911 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 240207_22:23:05.912 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 240207_22:23:05.912 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240207_22:23:05.912 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil

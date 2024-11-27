@@ -1,0 +1,5 @@
+INTERACTIVE_BROKERS_CONFIG = {
+    "SOCKET_PORT": 7497,
+    "CLIENT_ID": "999",
+    "IP": "127.0.0.1",
+}

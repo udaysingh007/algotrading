@@ -1,0 +1,6 @@
+(MainThread) 240207_22:21:51.126 DEBUG Program.py:2027 now is 2024-02-07 22:21:51.126612
+(MainThread) 240207_22:21:51.150 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240207_22:21:51.151 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240207_22:21:51.151 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil
+(MainThread) 240207_22:21:56.228 ERROR wrapper.py:84 ERROR 1000 10197 No market data during competing live session
+(MainThread) 240207_22:22:24.775 ERROR wrapper.py:84 ERROR 1000 10197 No market data during competing live session

@@ -1,0 +1,5 @@
+(MainThread) 240206_00:48:30.670 DEBUG Program.py:2027 now is 2024-02-06 00:48:30.670375
+(MainThread) 240206_00:48:30.687 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 240206_00:48:30.687 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240206_00:48:30.689 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240206_00:48:30.689 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil

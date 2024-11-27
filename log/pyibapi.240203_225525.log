@@ -1,0 +1,20 @@
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:hfarm
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:jfarm
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarmnj
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 240203_22:55:25.139 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 240203_22:55:25.140 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:fundfarm
+(MainThread) 240203_22:55:25.140 ERROR wrapper.py:84 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 240203_22:55:25.140 ERROR wrapper.py:84 ERROR -1 2158 Sec-def data farm connection is OK:secdefil
+(MainThread) 240203_22:55:25.252 ERROR wrapper.py:84 ERROR 210 200 No security definition has been found for the request
+(MainThread) 240203_22:55:25.461 ERROR wrapper.py:84 ERROR -1 2113 Warning: the order size for Bonds (Bills) is entered as a nominal par value of the order, and must be a multiple of the Minimum Size Increment.%s
+(MainThread) 240203_22:55:25.537 ERROR wrapper.py:84 ERROR 213 200 No security definition has been found for the request
+(MainThread) 240203_22:55:25.573 ERROR wrapper.py:84 ERROR 214 200 No security definition has been found for the request
+(MainThread) 240203_22:55:25.958 ERROR wrapper.py:84 ERROR 217 2130 Warning: CORTS product is trading on the basis of currency price with factor
+(MainThread) 240203_22:55:26.000 ERROR wrapper.py:84 ERROR 219 200 No security definition has been found for the request
+(MainThread) 240203_22:55:26.041 ERROR wrapper.py:84 ERROR -1 2113 Warning: the order size for Bonds (Bills) is entered as a nominal par value of the order, and must be a multiple of the Minimum Size Increment.%s
+(MainThread) 240203_22:55:27.011 ERROR wrapper.py:84 ERROR -1 2104 Market data farm connection is OK:eufarm
